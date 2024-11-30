@@ -1,0 +1,73 @@
+{
+  "ascii": [
+    "██╗  ██╗███████╗██████╗ ████████╗███████╗██████╗ ███╗   ███╗",
+    "██║  ██║██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗ ████║",
+    "███████║███████╗██████╔╝   ██║   █████╗  ██████╔╝██╔████╔██║",
+    "██╔══██║╚════██║██╔══██╗   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║",
+    "██║  ██║███████║██║  ██║   ██║   ███████╗██║  ██║██║ ╚═╝ ██║",
+    "╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝"
+  ],
+  "title": "HSRTERM",
+  "username": "Harshit Singh Raushan",
+  "hostname": "HSRTERM",
+  "password": "050823",
+  "repoLink": "https://github.com/HarshitSinghRaushan",
+  "social": {
+    "email": "harshitsinghraushan@hsr.com",
+    "github": "https://github.com/HarshitSinghRaushan",
+    "linkedin": "https://in.linkedin.com/in/harshitsinghraushan"
+  },
+  "aboutGreeting": "Hey! I'm Harshit Singh Raushan, Welcome to my Terminal Portfolio",
+  "projects": [
+    [
+      "EDF RC JET",
+      "Achievement of high speeds and precise flight control with the efficiency of electric propulsion.",
+      "https://github.com/HarshitSinghRaushan/"
+    ],
+    [
+      "HSRTERM",
+      "Terminal Portfolio Website.",
+      "https://github.com/HarshitSinghRaushan/"
+    ],
+
+    [
+      "COVID-19 Tracker",
+      "A web application made by python and react native that tracks the COVID-19 cases world-wide",
+      "https://github.com/HarshitSinghRaushan"
+    ],
+    
+    [
+      "HSRLINUX",
+      "A Custom Linux operating system",
+      "https://github.com/HarshitSinghRaushan"
+    ],
+    [
+      "Torus",
+      "A 3D programmed torus in C++, random yet riveting project",
+      "https://github.com/HarshitSinghRaushan"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
